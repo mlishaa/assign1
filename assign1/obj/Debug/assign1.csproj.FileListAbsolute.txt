@@ -1,0 +1,6 @@
+C:\Users\mac\source\repos\assign1\assign1\bin\Debug\assign1.exe.config
+C:\Users\mac\source\repos\assign1\assign1\bin\Debug\assign1.exe
+C:\Users\mac\source\repos\assign1\assign1\bin\Debug\assign1.pdb
+C:\Users\mac\source\repos\assign1\assign1\obj\Debug\assign1.csprojAssemblyReference.cache
+C:\Users\mac\source\repos\assign1\assign1\obj\Debug\assign1.exe
+C:\Users\mac\source\repos\assign1\assign1\obj\Debug\assign1.pdb
